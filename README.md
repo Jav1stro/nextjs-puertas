@@ -1,3 +1,6 @@
 First NEXTJS 14 project.
-With page's router and Hero component.
+Lo que aprendí en esta app🧮 
+-estructura de urls en next
+-componente hero y sus props, creando una interface de typescript
+-Image component
 npm run dev
